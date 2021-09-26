@@ -9,7 +9,9 @@
 
 
 
-
+<details>
+   <summary>:zap: Github Stats</summary>
+ </details>
 
 
 
@@ -31,4 +33,6 @@ You can click the Preview link to take a look at your changes.
 - 👀 I’m interested in programing and gaming.🎮
 - 🌱 I’m currently learning html, css, java script and python.🐍
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... -->
+- 📫 How to reach me ... 
+
+https://www.youtube.com/watch?v=n6d4KHSKqGk&t=107s&ab_channel=codeSTACKr-->
