@@ -11,7 +11,7 @@
 
 <details>
    <summary>:zap: Github Stats</summary>
-   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DajmondFM)](https://github.com/anuraghazra/github-readme-stats)
+   [Dajmond Stats](https://github-readme-stats.vercel.app/api?username=DajmondFM)](https://github.com/anuraghazra/github-readme-stats)
  </details>
 
 
