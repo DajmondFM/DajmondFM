@@ -36,3 +36,5 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me ... 
 
 https://www.youtube.com/watch?v=n6d4KHSKqGk&t=107s&ab_channel=codeSTACKr-->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DajmondFM)](https://github.com/anuraghazra/github-readme-stats)
