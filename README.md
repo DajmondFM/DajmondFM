@@ -13,7 +13,9 @@
    <summary>:zap: Github Stats</summary>
    [![Dajmond Stats](https://github-readme-stats.vercel.app/api?username=DajmondFM)]
  </details> -->
- [![Dajmond Stats](https://github-readme-stats.vercel.app/api?username=DajmondFM&theme=prussian&show_icons=true)]
+![Dajmond Stats](https://github-readme-stats.vercel.app/api?username=DajmondFM&theme=algolia&show_icons=true)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DajmondFM&theme=algolia&show_icons=true&layout=compact)
 
 <!---
 DajmondFM/DajmondFM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
