@@ -22,7 +22,6 @@
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DajmondFM&theme=algolia&show_icons=true&layout=compact) -->
 ![Dajmond Stats](https://github-readme-stats.vercel.app/api?username=DajmondFM&theme=tokyonight&show_icons=true)
-<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DajmondFM&theme=tokyonight&show_icons=true&layout=compact)
 
 
